@@ -4,7 +4,7 @@ This is my personal readme. Thanks for your reading!
 
 ## 🔭 I’m currently working on
 
-- R&D Engineer & OSPO
+- R&D Engineer
 
 ## 🌱 I’m currently learning
 
