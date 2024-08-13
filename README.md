@@ -15,6 +15,7 @@ This is my personal readme. Thanks for your reading!
 - Open Source
     - History
     - Cases
+    - Ideas
 - 3D Printing Tecknology
     - 3D Printing tips
     - How to make 3D Printing machine
