@@ -16,7 +16,7 @@ This is my personal readme. Thanks for your reading!
     - History
     - Cases
     - Ideas
-- 3D Printing Tecknology
+- 3D Printing Technology
     - 3D Printing tips
     - How to make 3D Printing machine
     - How to make multimaterial systems
