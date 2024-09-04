@@ -30,6 +30,7 @@ This is my personal readme. Thanks for your reading!
 
 ## 🤔 Webinars and conference talks
 
+- [OpenChain Chain WorkGroup Meetup - OpenChain Telco SBOM Guide: From Specification, Schema, Tool to Example in ByteDance](https://bytedance.larkoffice.com/docx/VWxGdskjuonS01xMmqUcgIWonsc)
 - [CommunityOverCode Asia 2024 - Bytedance AI Meetup](https://bytedance.larkoffice.com/docx/HOC2dbQOtoUKJ4x99stcEWuRnEd)
 
 ## 😄 Pronouns
