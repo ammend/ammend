@@ -32,6 +32,7 @@ This is my personal readme. Thanks for your reading!
 
 - [OpenChain Chain WorkGroup Meetup - OpenChain Telco SBOM Guide: From Specification, Schema, Tool to Example in ByteDance](https://bytedance.larkoffice.com/docx/VWxGdskjuonS01xMmqUcgIWonsc)
 - [CommunityOverCode Asia 2024 - Bytedance AI Meetup](https://bytedance.larkoffice.com/docx/HOC2dbQOtoUKJ4x99stcEWuRnEd)
+- [开源大模型应用指南1.0](https://mp.weixin.qq.com/s/lZSMXIXjxxTN79P4Fv8gzA)
 
 ## 😄 Pronouns
 - He/him/his
