@@ -31,7 +31,7 @@ This is my personal readme. Thanks for your reading!
 ## 🤔 Webinars and conference talks
 
 - [OpenChain Chain WorkGroup Meetup - OpenChain Telco SBOM Guide: From Specification, Schema, Tool to Example in ByteDance](https://bytedance.larkoffice.com/docx/VWxGdskjuonS01xMmqUcgIWonsc)
-- [CommunityOverCode Asia 2024 - Bytedance AI Meetup](https://bytedance.larkoffice.com/docx/HOC2dbQOtoUKJ4x99stcEWuRnEd)
+- [CommunityOverCode Asia 2024 (ApacheCon) - Bytedance AI Meetup](https://bytedance.larkoffice.com/docx/HOC2dbQOtoUKJ4x99stcEWuRnEd)
 - [参与撰写信通院《开源大模型应用指南1.0》](https://mp.weixin.qq.com/s/lZSMXIXjxxTN79P4Fv8gzA)
 - [2024开源年会分享《3D打印领域开源协议探索》](https://mp.weixin.qq.com/s/XDLJYV-eHZchYzNRnqXKgQ)
 
