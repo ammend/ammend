@@ -34,6 +34,7 @@ This is my personal readme. Thanks for your reading!
 - [CommunityOverCode Asia 2024 (ApacheCon) - Bytedance AI Meetup](https://bytedance.larkoffice.com/docx/HOC2dbQOtoUKJ4x99stcEWuRnEd)
 - [参与撰写信通院《开源大模型应用指南1.0》](https://mp.weixin.qq.com/s/lZSMXIXjxxTN79P4Fv8gzA)
 - [2024开源年会分享《3D打印领域开源协议探索》](https://mp.weixin.qq.com/s/XDLJYV-eHZchYzNRnqXKgQ)
+- [“一小陪一老” 抖音志愿者培训31名朝阳学生开发“AI智能体”陪伴老人](https://news.qq.com/rain/a/20250218A0416N00)
 
 ## 😄 Pronouns
 - He/him/his
