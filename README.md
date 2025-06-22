@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 This is my personal readme. Thanks for your reading!
+I am a R&D Engineer with more than 8 years of R&D experience in large-scale Internet cloud computing, specializing in the DevOps field. 
+- Currently focus on software supply chain security compliance and the implementation of large AI models. 
+- Has served as a lecturer multiple times to promote technical evangelism, aiming to influence more people through technology. 
+- Meanwhile actively involved in open-source projects and public welfare construction, always upholding the philosophy of technology empowerment and open sharing.
+
 
 ## 🔭 I’m currently working on
 
@@ -30,6 +35,7 @@ This is my personal readme. Thanks for your reading!
 
 ## 🤔 Webinars and conference talks
 
+- [OSPO Summit 2025 - OpenChain SBOM 国际标准落地实践分享](https://mp.weixin.qq.com/s/PJUQaMJo_Uid3K9GC9zk3w)
 - [OpenChain Chain WorkGroup Meetup - OpenChain Telco SBOM Guide: From Specification, Schema, Tool to Example in ByteDance](https://bytedance.larkoffice.com/docx/VWxGdskjuonS01xMmqUcgIWonsc)
 - [CommunityOverCode Asia 2024 (ApacheCon) - Bytedance AI Meetup](https://bytedance.larkoffice.com/docx/HOC2dbQOtoUKJ4x99stcEWuRnEd)
 - [参与撰写信通院《开源大模型应用指南1.0》](https://mp.weixin.qq.com/s/lZSMXIXjxxTN79P4Fv8gzA)
